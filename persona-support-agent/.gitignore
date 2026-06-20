@@ -1,0 +1,17 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+ENV/
+env/
+.env
+
+# Vector database
+chroma_db/
+
+# Streamlit
+.streamlit/

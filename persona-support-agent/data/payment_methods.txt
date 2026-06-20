@@ -1,0 +1,17 @@
+Accepted Payment Methods and Wire Transfers
+Adsparkx supports multiple payment systems for customer convenience.
+
+1. Credit and Debit Cards
+We accept major credit and debit cards: Visa, Mastercard, American Express, Discover, and JCB. Credit cards are stored securely using Stripe's PCI-compliant vaults. Card details are processed over encrypted HTTPS channels.
+
+2. Wire Transfers and ACH (Enterprise Only)
+Enterprise subscriptions with annual billing agreements ($5,000+ per year) can choose to pay via bank wire transfer or ACH.
+- Payment terms are net 30 days from the invoice date.
+- Wire details are printed on your enterprise invoice.
+- Send remittance advice emails to billing@adsparkx.com to speed up credit application.
+
+3. PayPal and Digital Wallets
+We support PayPal for subscriptions on the Growth plan. To link PayPal:
+- Go to Settings > Billing > Payment Methods.
+- Click 'Add PayPal' and authorize the link in the pop-up modal.
+- Apple Pay and Google Pay are supported in mobile browsers.

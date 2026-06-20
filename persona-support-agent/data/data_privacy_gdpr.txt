@@ -1,0 +1,18 @@
+Data Privacy and GDPR Compliance Guidelines
+Adsparkx is committed to user data privacy and complies with GDPR, CCPA, and COPPA mandates.
+
+1. Data Collection and Retention
+We collect operational metrics, user emails, and API configurations needed to run the platform. User log content is kept for 30 days to assist troubleshooting, after which it is automatically deleted.
+
+2. Right to be Forgotten (Data Deletion Request)
+Under GDPR, users can request the deletion of all personal and account data:
+- Go to Settings > Security & Privacy.
+- Click 'Request Account Deletion'.
+- Confirm the deletion request via the email verification link.
+- Deletions are processed and completed within 14 calendar days. This action is permanent and deletes all API configurations, reports, and team workspaces.
+
+3. Data Portability
+You can export all workspace configuration settings, metrics data, and billing history:
+- Navigate to Settings > Export Data.
+- Select export format (CSV or JSON).
+- Click 'Generate Export' and download the generated zip file.

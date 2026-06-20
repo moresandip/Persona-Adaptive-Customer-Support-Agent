@@ -1,0 +1,32 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+ENV/
+env/
+.env
+persona-support-agent/venv/
+persona-support-agent/.env
+
+# Vector database
+chroma_db/
+persona-support-agent/chroma_db/
+
+# Streamlit
+.streamlit/
+persona-support-agent/.streamlit/
+
+# VibeCheck & AI Agent files
+.vibecheck/
+.claude/
+.cursor/
+CLAUDE.md
+.github/
+workflows/
+
+
+

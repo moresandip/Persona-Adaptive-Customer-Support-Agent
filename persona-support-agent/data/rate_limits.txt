@@ -1,0 +1,21 @@
+API Rate Limits and Request Throttling Guide
+To maintain system health and fairness, Adsparkx enforces API rate limits.
+
+1. Standard Limits
+Rate limits are calculated on a sliding 60-second window:
+* Free Plan: 10 requests/minute (RPM).
+* Growth Plan: 60 RPM.
+* Enterprise Plan: 1,000 RPM.
+
+2. Exceeding Limits (HTTP 429)
+When your application exceeds its limit, the Adsparkx API returns an HTTP 429 status code. The body contains a JSON explanation:
+{
+  "error": "RateLimitExceeded",
+  "message": "Too many requests. Please try again later.",
+  "retry_after_seconds": 15
+}
+
+3. Strategies to Avoid Throttling
+- Cache frequent API queries locally.
+- Implement token-bucket or leaky-bucket queuing algorithms in your code.
+- Read response headers for rate limits and adjust execution speed dynamically.

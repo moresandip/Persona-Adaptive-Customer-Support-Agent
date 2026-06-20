@@ -1,0 +1,14 @@
+Enterprise Support & SLA Agreement
+This document outlines response timelines and support procedures for Enterprise customers.
+
+1. Support Hours
+Dedicated Enterprise support engineers are active 24/7/365. Support tickets can be submitted via the Enterprise Dashboard or by emailing enterprise-support@adsparkx.com.
+
+2. Incident Severity Levels & Response Times
+We classify issues into three severity categories, each with a strict target response time SLA:
+* Priority 1 (P1) - Critical Outage: Core services are down, blocking operational workflows. Target response time: 2 Hours.
+* Priority 2 (P2) - Major Impact: Key features are unavailable, but workaround exists. Target response time: 8 Hours.
+* Priority 3 (P3) - Minor Issue: General queries, minor UI bugs, feature requests. Target response time: 24 Hours.
+
+3. SLA Violation Credits
+If Adsparkx fails to meet target response times on P1 incidents more than twice in a calendar month, the enterprise workspace will receive a billing credit equal to 15% of the monthly subscription fee.

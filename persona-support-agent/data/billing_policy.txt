@@ -1,0 +1,14 @@
+Adsparkx Billing, Invoice, and Subscription Policies
+Effective Date: January 1, 2026
+
+1. Billing Cycle and Invoicing
+All subscription plans (Growth, Enterprise) are billed on a recurring monthly cycle starting on the date of your initial subscription. Invoices are automatically generated and sent to the billing email on file. Payment is processed automatically using your saved credit card.
+
+2. Failed Payments and Account Suspension
+If a payment attempt fails, we will retry the charge 3 times over a 7-day grace period (on days 2, 4, and 7). During this grace period, your API and workspace access remain fully functional. If payment is still outstanding after the 7th day, the account status changes to 'Suspended'. Suspended accounts have APIs deactivated and workspace access restricted.
+
+3. Refund Policy
+We offer a 14-day refund window for initial subscription plan purchases. Annual subscriptions are eligible for partial refunds within the first 14 days, subject to a 10% administrative processing fee. We do not issue refunds for monthly renewals, usage-based overages, or mid-cycle cancellations. All billing disputes must be raised via email at billing@adsparkx.com within 30 days of the charge.
+
+4. Sales Tax and Corporate VAT
+Depending on your geographic location and local tax regulations, a sales tax or VAT charge may be applied to your monthly subscription invoice. Tax-exempt organizations must upload a valid tax exemption certificate in the Billing Portal to waive future tax collections.
