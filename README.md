@@ -110,8 +110,6 @@ The conversation bypasses AI automation and escalates to a live support represen
 ```
 c:/Users/mores/OneDrive/Desktop/Persona-Adaptive Customer Support Agent/
 │
-├── workflows/                        <-- Workflow automation configurations
-├── CLAUDE.md                         <-- VibeCheck configuration
 ├── README.md                         <-- Root README (This file)
 │
 └── persona-support-agent/            <-- Main application package
